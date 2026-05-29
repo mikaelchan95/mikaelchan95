@@ -86,11 +86,22 @@ I'm an **operator-developer** in **Singapore** 🇸🇬 — I run a multi-outlet
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-**AI & Tooling**
+**AI Models** — frontier + open / local
 
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**AI Tooling & Workflow**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1A1A1A?style=for-the-badge&logo=comfyui&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek%20(local)-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 
 ---
@@ -100,12 +111,8 @@ I'm an **operator-developer** in **Singapore** 🇸🇬 — I run a multi-outlet
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mikaelchan95&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=3E7CB1&icon_color=58A6FF&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaelchan95&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=1F3A5F&icon_color=3E7CB1&text_color=2C3E50" alt="Mikael's GitHub stats" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelchan95&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=3E7CB1&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelchan95&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=1F3A5F&text_color=2C3E50" alt="Top languages" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mikaelchan95&bg_color=00000000&color=3E7CB1&line=58A6FF&point=ffffff&area=true&area_color=1F3A5F&title_color=3E7CB1&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaelchan95&bg_color=00000000&color=2C3E50&line=3E7CB1&point=1F3A5F&area=true&area_color=3E7CB1&title_color=1F3A5F&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="98%" />
 </picture>
 
 <picture>
