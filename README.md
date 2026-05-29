@@ -138,6 +138,15 @@ An operator-developer who runs real-world operations by day and ships the softwa
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://grs-psi.vercel.app/api?username=mikaelchan95&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=BB86FC&icon_color=BB86FC&text_color=c9d1d9" />
+  <img src="https://grs-psi.vercel.app/api?username=mikaelchan95&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7B2CBF&icon_color=9D4EDD&text_color=2C3E50" alt="Mikael's GitHub stats (incl. private)" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://grs-psi.vercel.app/api/top-langs/?username=mikaelchan95&layout=compact&hide_border=true&langs_count=8&count_private=true&bg_color=00000000&title_color=BB86FC&text_color=c9d1d9" />
+  <img src="https://grs-psi.vercel.app/api/top-langs/?username=mikaelchan95&layout=compact&hide_border=true&langs_count=8&count_private=true&bg_color=00000000&title_color=7B2CBF&text_color=2C3E50" alt="Top languages (incl. private)" height="170" />
+</picture>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaelchan95&bg_color=00000000&color=9D4EDD&line=9D4EDD&point=E0AAFF&area=true&area_color=6C4AB6&title_color=9D4EDD&hide_border=true&custom_title=Shadow%20Activity" width="98%" alt="Contribution activity graph" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaelchan95&hide_border=true&background=00000000&ring=9D4EDD&fire=E84A5F&currStreakNum=9D4EDD&sideNums=9D4EDD&currStreakLabel=9D4EDD&sideLabels=7F8C8D&dates=7F8C8D&stroke=9D4EDD" alt="GitHub streak" />
