@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2E1A47,100:9D4EDD&height=200&section=header&text=Mikael%20Chan&fontSize=56&fontColor=ffffff&fontAlignY=39&animation=fadeIn&desc=The%20Shadow%20Builder%20%C2%B7%20Operator-Developer%20%26%20Founder&descSize=18&descAlignY=59" width="100%" alt="Mikael Chan" />
+<img src="https://raw.githubusercontent.com/mikaelchan95/mikaelchan95/main/assets/header.svg" width="100%" alt="Mikael Chan — The Shadow Builder" />
 
 <a href="https://github.com/mikaelchan95">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=900&color=9D4EDD&center=true&vCenter=true&width=780&lines=They+say+Gengar+hides+in+the+shadows...+mine+hides+in+the+codebase;Operator-developer+who+ships+in+the+dark;EASI+is+live+%E2%80%94+400%2B+distribution+clients+and+growing;ORB+is+evolving+into+a+SaaS+product;1x+Exit+%C2%B7+Building+from+the+shadows+in+Singapore" alt="Typing SVG" />
@@ -166,4 +166,4 @@ An operator-developer who runs real-world operations by day and ships the softwa
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9D4EDD,100:2E1A47&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/mikaelchan95/mikaelchan95/main/assets/footer.svg" width="100%" alt="footer" />
