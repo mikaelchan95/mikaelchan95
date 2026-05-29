@@ -63,12 +63,13 @@ GRIT          ▰▰▰▰▰▰▰▰▰▰    stay hard
 
 | Project | Status |
 | :-- | :-- |
-| **EASI** | 🟢 **Live in production** — B2B/B2C spirits-commerce platform now powering a distributor serving **400+ and growing clients**. Rebuilt as primary engineer (2 devs) to replace a ~20-person predecessor. React Native/Expo + Vite/React + Supabase + a .NET AutoCount bridge with dead-letter queue & circuit-breaker resilience |
-| **ORB** | 🚀 **Spinning out as a SaaS product** — the restaurant operations OS, proven across the group's outlets; other restaurants want it, so it's shipping as an independent private product |
-| **Winery Ops Suite** | ✅ Scheduler · incentive program · CMS — **74K+ LOC, solo**. The wineries run measurably better than before |
-| **[autoloRA](https://github.com/mikaelchan95/autoloRA)** | 🧪 Autonomous FLUX LoRA hyperparameter optimizer — ratchet loop + multi-metric scoring on Ostris AI Toolkit |
-| **Airap.ai** | 🎨 Bilingual marketing site — Next.js 16 + React 19 + R3F / WebGL with a custom "Aurora" shader |
-| **ChefVault** | 🍳 Recipe-management & costing app (Expo + Zustand) |
+| **EASI** | 🟢 **Live in production** — a **B2B e-commerce platform**, the successor to the original **Flow** app. Powers a spirits distributor serving **400+ and growing clients**. React Native/Expo + Vite/React + Supabase + a .NET AutoCount bridge with dead-letter queue & circuit-breaker resilience |
+| **ORB** | 🚀 **Spinning out as a SaaS** — the restaurant operations OS that runs the wineries (scheduling · incentive programs · CMS, **74K+ LOC solo**). Proven across the outlets; now shipping as an independent product after inbound demand from other restaurants |
+| **ChefVault** | 📱 **Launching on the App Store soon** — *my own app*. A recipe vault for pro & home chefs: drop in a TikTok, a link, or any video and it becomes a clean, stored recipe — auto-converting units to your system (ml/L · g/kg · lb/oz) |
+| **Elite Experiences** | ✨ **New** — joining as **CTO & Co-Founder** to launch a companion app *and* a full travel agency in Singapore (**mid-2026**) |
+| **[autoloRA](https://github.com/mikaelchan95/autoloRA)** | 🧪 Open source — autonomous FLUX LoRA hyperparameter optimizer (ratchet loop + multi-metric scoring) on the Ostris AI Toolkit |
+
+<sub>🧬 Also founded <b>AIRAP</b> (AI / IT) — built the team, set them up for success, and handed over the keys. Wishing them all the best while I chase bigger things.</sub>
 
 ---
 
