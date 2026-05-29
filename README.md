@@ -1,17 +1,17 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2E1A47,100:9D4EDD&height=210&section=header&text=Mikael%20Chan&fontSize=56&fontColor=ffffff&fontAlignY=39&animation=fadeIn&desc=The%20Shadow%20Builder%20%C2%B7%20Ghost-Type%20Operator-Developer&descSize=18&descAlignY=59" width="100%" alt="Mikael Chan" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2E1A47,100:9D4EDD&height=200&section=header&text=Mikael%20Chan&fontSize=56&fontColor=ffffff&fontAlignY=39&animation=fadeIn&desc=The%20Shadow%20Builder%20%C2%B7%20Operator-Developer%20%26%20Founder&descSize=18&descAlignY=59" width="100%" alt="Mikael Chan" />
 
 <a href="https://github.com/mikaelchan95">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=900&color=9D4EDD&center=true&vCenter=true&width=780&lines=They+say+Gengar+hides+in+the+shadows...+mine+hides+in+the+codebase;Operator-developer+who+ships+in+the+dark;EASI+is+live+%E2%80%94+400%2B+distribution+clients+and+growing;ORB+is+evolving+into+a+SaaS+product;1x+Exit+%C2%B7+Building+from+the+shadows+in+Singapore" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%BB%20Ghost--Type%20Builder-6C4AB6?style=for-the-badge" alt="Ghost-Type Builder" />
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20Operator--Developer-7B2CBF?style=for-the-badge" alt="Operator-Developer" />
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%201%C3%97%20Exit-9D4EDD?style=for-the-badge" alt="1x Exit" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Singapore-5A189A?style=for-the-badge" alt="Singapore" />
+  <img src="https://img.shields.io/badge/Ghost--Type%20Builder-6C4AB6?style=for-the-badge" alt="Ghost-Type Builder" />
+  <img src="https://img.shields.io/badge/Operator--Developer-7B2CBF?style=for-the-badge" alt="Operator-Developer" />
+  <img src="https://img.shields.io/badge/1%C3%97%20Exit-9D4EDD?style=for-the-badge" alt="1x Exit" />
+  <img src="https://img.shields.io/badge/Singapore-5A189A?style=for-the-badge" alt="Singapore" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mikaelchan95&style=flat-square&color=9D4EDD&label=Trainers+encountered" alt="Profile views" />
@@ -20,60 +20,60 @@
 
 ---
 
-### 👻 Pokédex Entry
+## Pokédex Entry
 
-> **#094 · GENGAR-TYPE BUILDER** &nbsp;—&nbsp; *the Shadow Builder Pokémon*
->
-> **Type:** 👻 Ghost / 🛠️ Builder &nbsp;·&nbsp; **Region:** Singapore 🇸🇬 &nbsp;·&nbsp; **Lv.** 30
->
-> A nocturnal operator-developer who runs real-world operations by day and ships the software that powers them by night. Builds the whole stack with a tiny team — and tends to merge code before anyone notices it was written. One confirmed evolution (**Exit, 2020**). Bilingual EN / ZH. Code is the first love; everything else is just where he points it.
+<table>
+<tr>
+<td width="34%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="150" alt="Gengar" />
+<br/>
+<b>#094 &nbsp;·&nbsp; GENGAR</b><br/>
+<sub>The Shadow Pokémon</sub>
+</td>
+<td>
+
+**Type:** Ghost / Poison &nbsp;·&nbsp; **Region:** Singapore &nbsp;·&nbsp; **Lv.** 30
+
+> *"Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow."*
+> <br/>— Pokédex, Ruby & Sapphire
+
+An operator-developer who runs real-world operations by day and ships the software that powers them by night. Builds the whole stack with a tiny team — and tends to merge code before anyone notices it was written. One confirmed evolution **(Exit, 2020)**. Bilingual EN / ZH. Code is the first love.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ Base Stats
-
-```text
-👻  GENGAR  ·  the Shadow Builder            Lv. 30   ·   Ghost / Builder
-
-SHIPPING      ▰▰▰▰▰▰▰▰▰▱    fast, and usually in the dark
-FULL-STACK    ▰▰▰▰▰▰▰▰▰▱    web · mobile · edge · the boring glue too
-OPERATIONS    ▰▰▰▰▰▰▰▰▱▱    real P&L, real kitchens, real suppliers
-AI / AGENTS   ▰▰▰▰▰▰▰▰▰▱    Claude-Code fleets · local LLMs · ComfyUI
-DEALMAKING    ▰▰▰▰▰▰▰▰▱▱    closed a S$2M+ landmark enterprise deal
-GRIT          ▰▰▰▰▰▰▰▰▰▰    stay hard
-```
-
----
-
-### 🌀 Moveset
+## Moveset
 
 | Move | Type | Effect |
 | :-- | :-- | :-- |
-| **Shadow Ship** | 👻 Ghost | Merges full-stack features before anyone sees them coming |
-| **Solo Build** | ⚔️ Build | Single-handedly ships entire ops suites — 74K+ LOC, no team |
-| **Agent Swarm** | 🤖 AI | Orchestrates Claude-Code fleets for ~10× engineering leverage |
-| **The Close** | 💰 Sales | Turns a conversation into a six-figure deal |
+| **Shadow Sneak** | Ghost · Priority | Merges full-stack features before anyone sees them coming |
+| **Shadow Ball** | Ghost · Special | The flagship hit — production apps that land hard (EASI, ORB) |
+| **Hypnosis** | Psychic · Status | Turns a conversation into a signed deal |
+| **Mean Look** | Normal · Status | Locks clients in — 400+ and counting, and none escape |
+| **Curse** | Ghost · Status | Trades comfort and sleep to out-grind the problem |
 
-**Ability:** *Operator's Instinct* — owns the P&L **and** writes the code, so the software actually fits the business.
-**Hidden Ability:** *Stay Hard* — ships through the grind.
+**Ability — Cursed Body:** bugs that touch this codebase tend to disable themselves.
 
 ---
 
-### 🔮 What I'm Building
+## What I'm Building
 
 | Project | Status |
 | :-- | :-- |
-| **EASI** | 🟢 **Live in production** — a **B2B e-commerce platform**, the successor to the original **Flow** app. Powers a spirits distributor serving **400+ and growing clients**. React Native/Expo + Vite/React + Supabase + a .NET AutoCount bridge with dead-letter queue & circuit-breaker resilience |
-| **ORB** | 🚀 **Spinning out as a SaaS** — the restaurant operations OS that runs the wineries (scheduling · incentive programs · CMS, **74K+ LOC solo**). Proven across the outlets; now shipping as an independent product after inbound demand from other restaurants |
-| **ChefVault** | 📱 **Launching on the App Store soon** — *my own app*. A recipe vault for pro & home chefs: drop in a TikTok, a link, or any video and it becomes a clean, stored recipe — auto-converting units to your system (ml/L · g/kg · lb/oz) |
-| **Elite Experiences** | ✨ **New** — joining as **CTO & Co-Founder** to launch a companion app *and* a full travel agency in Singapore (**mid-2026**) |
-| **[autoloRA](https://github.com/mikaelchan95/autoloRA)** | 🧪 Open source — autonomous FLUX LoRA hyperparameter optimizer (ratchet loop + multi-metric scoring) on the Ostris AI Toolkit |
+| **EASI** | **Live in production** — a B2B e-commerce platform, the successor to the original **Flow** app. Powers a spirits distributor serving **400+ and growing clients**. React Native/Expo + Vite/React + Supabase + a .NET AutoCount bridge with dead-letter queue & circuit-breaker resilience |
+| **ORB** | **Spinning out as a SaaS** — the restaurant operations OS that runs the wineries (scheduling · incentive programs · CMS, 74K+ LOC solo). Proven across the outlets; now shipping as an independent product after inbound demand from other restaurants |
+| **ChefVault** | **Launching on the App Store soon** — *my own app*. A recipe vault for pro & home chefs: drop in a TikTok, a link, or any video and it becomes a clean, stored recipe — auto-converting units to your system (ml/L · g/kg · lb/oz) |
+| **Elite Experiences** | **New** — joining as **CTO & Co-Founder** to launch a companion app and a full travel agency in Singapore (**mid-2026**) |
+| **[autoloRA](https://github.com/mikaelchan95/autoloRA)** | **Open source** — autonomous FLUX LoRA hyperparameter optimizer (ratchet loop + multi-metric scoring) on the Ostris AI Toolkit |
 
-<sub>🧬 Also founded <b>AIRAP</b> (AI / IT) — built the team, set them up for success, and handed over the keys. Wishing them all the best while I chase bigger things.</sub>
+<sub>Also founded <b>AIRAP</b> (AI / IT) — built the team, set them up for success, and handed over the keys. Wishing them all the best while I chase bigger things.</sub>
 
 ---
 
-### 🏆 Notable
+## Notable
 
 <div align="center">
 
@@ -87,7 +87,7 @@ GRIT          ▰▰▰▰▰▰▰▰▰▰    stay hard
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -134,7 +134,7 @@ GRIT          ▰▰▰▰▰▰▰▰▰▰    stay hard
 
 ---
 
-### 📊 Shadow Activity
+## Shadow Activity
 
 <div align="center">
 
@@ -146,7 +146,7 @@ GRIT          ▰▰▰▰▰▰▰▰▰▰    stay hard
 
 ---
 
-### 🌐 Connect
+## Connect
 
 <div align="center">
 
@@ -158,7 +158,7 @@ GRIT          ▰▰▰▰▰▰▰▰▰▰    stay hard
 
 <div align="center">
 
-<sub>💭 <b>Inspired by</b> &nbsp;·&nbsp; <a href="https://github.com/karpathy">Andrej Karpathy</a> &nbsp;·&nbsp; Elon Musk &nbsp;·&nbsp; David Goggins &nbsp;·&nbsp; <a href="https://github.com/steipete">Pete Steinberger</a></sub>
+<sub><b>Inspired by</b> &nbsp;·&nbsp; <a href="https://github.com/karpathy">Andrej Karpathy</a> &nbsp;·&nbsp; Elon Musk &nbsp;·&nbsp; David Goggins &nbsp;·&nbsp; <a href="https://github.com/steipete">Pete Steinberger</a></sub>
 
 <br/><br/>
 
